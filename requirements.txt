@@ -1,0 +1,9 @@
+flask
+openai
+yfinance
+requests
+python-dotenv
+pandas
+openpyxl
+sqlalchemy
+schedule
